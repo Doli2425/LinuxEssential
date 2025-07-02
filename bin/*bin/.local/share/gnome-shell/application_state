@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" score="118.78125" last-seen="1751442218"/>
+    <application id="org.gnome.tweaks.desktop" score="2.03125" last-seen="1751355649"/>
+    <application id="firefox.desktop" score="1" last-seen="1751022640"/>
+    <application id="org.gnome.Terminal.desktop" score="20523.0625" last-seen="1751452773"/>
+    <application id="org.gnome.gedit.desktop" score="39.0625" last-seen="1751367852"/>
+    <application id="org.gnome.Calculator.desktop" score="1" last-seen="1751288382"/>
+    <application id="gnome-system-monitor.desktop" score="2" last-seen="1751441972"/>
+    <application id="gnome-control-center.desktop" score="0" last-seen="1750924410"/>
+    <application id="wireshark.desktop" score="277" last-seen="1751447998"/>
+  </context>
+</application-state>
